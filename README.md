@@ -8,7 +8,7 @@ Olá! Sou Matheus Ribeiro, Desenvolvedor front-end apaixonado por desenvolviment
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ribeir0&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
- <p align="center">
+ <p align="left">
   <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="Kotlin" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
