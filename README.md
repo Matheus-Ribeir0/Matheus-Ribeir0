@@ -1,6 +1,31 @@
-<h1>Hi there! I am Matheus Ribeiro </h1>
- 
- 
+## 👋 E aí! Me chamo [Matheus Ribeiro]
+
+Sou um desenvolvedor **Full Stack**, mas com um pezinho mais firme no **React** e **Node.js**. Curioso por natureza, tô sempre quebrando a cabeça com algum projeto, estudando novas tecnologias ou tentando fazer a próxima automação que vai me poupar 5 minutos e me dar orgulho por semanas 😄
+
+### 💻 Stack Principal
+- React
+- Node.js
+- Express
+- JavaScript / TypeScript
+- MongoDB
+- PowerShell (porque automação também merece amor)
+
+### 🚀 Atualmente trabalhando em:
+- [Projeto de guia de estudos para dispositivos Mobile]
+- Aprofundando em [Ex: Docker, GraphQL, CI/CD...]
+
+### 🛠️ Gosto de:
+- Resolver problemas com código.
+- Transformar ideias em soluções reais
+- Automatizar o que der!
+
+### 📫 Me encontra por aí:
+- [LinkedIn](https://www.linkedin.com/in/matheus-ribeiro-301450220/)
+- [Portfólio](https://matheus-ribeir0.github.io/Portfolio/) <!-- se não tiver, pode apagar essa linha -->
+
+---
+
+**Let's build something awesome! 🚀**
  
 <div >
   <a href="https://github.com/Matheus-Ribeir0">
