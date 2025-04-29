@@ -1,23 +1,10 @@
-## 👋 E aí! Me chamo [Matheus Ribeiro]
+## 👋 E aí! Me chamo Matheus Ribeiro
 
 Sou um desenvolvedor **Full Stack**, mas com um pezinho mais firme no **React** e **Node.js**. Curioso por natureza, tô sempre quebrando a cabeça com algum projeto, estudando novas tecnologias ou tentando fazer a próxima automação que vai me poupar 5 minutos e me dar orgulho por semanas 😄
-
-### 💻 Stack Principal
-- React
-- Node.js
-- Express
-- JavaScript / TypeScript
-- MongoDB
-- PowerShell (porque automação também merece amor)
 
 ### 🚀 Atualmente trabalhando em:
 - [Projeto de guia de estudos para dispositivos Mobile]
 - Aprofundando em [Ex: Docker, GraphQL, CI/CD...]
-
-### 🛠️ Gosto de:
-- Resolver problemas com código.
-- Transformar ideias em soluções reais
-- Automatizar o que der!
 
 ### 📫 Me encontra por aí:
 - [LinkedIn](https://www.linkedin.com/in/matheus-ribeiro-301450220/)
@@ -35,13 +22,21 @@ Sou um desenvolvedor **Full Stack**, mas com um pezinho mais firme no **React** 
 
 <p>Take a look on some of my top hard skills:</p>
  <p align="left">
-  <img alt="html5" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="css3" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
-  <img alt="javascript" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
   <img alt="React" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+  <img alt="javascript" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+  <img alt="typescript" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+  <img alt="node.js" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      
+  <img alt="tailwind"  height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Firebase" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img alt="Python" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Powershell" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />        
   <img alt="Git"  height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Ubuntu"  height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img alt="figma"  height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="Azure"  height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />     
+  <img alt="tailwind"  height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="postgreeSQL"  height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Postman"  height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />   
 </p>
 
  
